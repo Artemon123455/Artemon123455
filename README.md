@@ -14,6 +14,9 @@
 ### [docker-nginx-demo](https://github.com/Artemon123455/docker-nginx-demo)
 Простой пример запуска веб-страницы через Docker + Nginx + Docker Compose.
 
+### [github-actions-demo](https://github.com/Artemon123455/github-actions-demo)
+Пример CI/CD пайплайна: автоматическая сборка Docker-образа через GitHub Actions.
+
 ## Контакты
 - Telegram: @bolsoonn
 - Email: bola150293@gmail.com
