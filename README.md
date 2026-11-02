@@ -4,14 +4,15 @@
 - Linux
 - Docker & Docker Compose
 - Kubernetes
-- Git / GitHub / GitLab
+- Git / GitHub
 - CI/CD
 
 Сейчас активно делаю учебные проекты и ищу позицию **Junior / Trainee DevOps**.
 
 ## Мои проекты
 
-Скоро здесь появятся ссылки на проекты.
+### [docker-nginx-demo](https://github.com/Artemon123455/docker-nginx-demo)
+Простой пример запуска веб-страницы через Docker + Nginx + Docker Compose.
 
 ## Контакты
 - Telegram: @bolsoonn
