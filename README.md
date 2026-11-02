@@ -1,16 +1,18 @@
-## Hi there 👋
+# Привет! Я начинающий DevOps-инженер
 
-<!--
-**Artemon123455/Artemon123455** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Изучаю:
+- Linux
+- Docker & Docker Compose
+- Kubernetes
+- Git / GitHub / GitLab
+- CI/CD
 
-Here are some ideas to get you started:
+Сейчас активно делаю учебные проекты и ищу позицию **Junior / Trainee DevOps**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Мои проекты
+
+Скоро здесь появятся ссылки на проекты.
+
+## Контакты
+- Telegram: @bolsoonn
+- Email: bola150293@gmail.com
