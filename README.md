@@ -17,6 +17,9 @@
 ### [github-actions-demo](https://github.com/Artemon123455/github-actions-demo)
 Пример CI/CD пайплайна: автоматическая сборка Docker-образа через GitHub Actions.
 
+### [kubernetes-demo](https://github.com/Artemon123455/kubernetes-demo)
+Простой пример деплоя приложения в Kubernetes (Deployment + Service).
+
 ## Контакты
 - Telegram: @bolsoonn
 - Email: bola150293@gmail.com
